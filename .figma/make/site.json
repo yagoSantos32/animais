@@ -1,0 +1,10 @@
+{
+  "description": "This web application streamlines testing processes for developers and QA teams, enhancing efficiency and accuracy in software quality assurance.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
